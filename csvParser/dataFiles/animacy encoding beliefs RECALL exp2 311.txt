@@ -1,0 +1,17 @@
+311,FINISHED,6.023,6.023,list1
+311,owl ,9.657,9.657,list2
+311,engineer,4.296,14.155,list2
+311,purse,3.34,17.698,list2
+311,spoon,4.469,22.369,list2
+311,rake,1.332,23.905,list2
+311,FINISHED,15.34,39.448,list2
+311,owl,3.059,3.059,list3
+311,rake,1.282,4.541,list3
+311,engineer,2.406,7.148,list3
+311,purse,3.581,10.932,list3
+311, trout,1.43,12.564,list3
+311, deer,1.195,13.963,list3
+311,spoon,5.54,19.707,list3
+311,stove,7.052,26.963,list3
+311,bee,4.269,31.436,list3
+311,FINISHED,2.739,34.377,list3

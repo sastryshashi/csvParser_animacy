@@ -1,0 +1,23 @@
+315,deer,11.288,11.288,list1
+315,ladder,1.864,13.353,list1
+315,ostrich,2.773,16.329,list1
+315,pants,2.854,19.385,list1
+315,hummingbird,3.886,23.473,list1
+315,goose,2.447,26.121,list1
+315,FINISHED,1.277,27.599,list1
+315,spoon,3.531,3.531,list2
+315,deer,1.047,4.78,list2
+315,badger,2.006,6.988,list2
+315,pants,2.558,9.748,list2
+315,baseball,2.327,12.276,list2
+315,hummingbird,3.935,16.412,list2
+315,ostrich,1.87,18.484,list2
+315,FINISHED,4.219,22.905,list2
+315,spoon ,3.979,3.979,list3
+315,ferret,2.272,6.452,list3
+315,baseball,2.966,9.62,list3
+315,ladder,2.606,12.428,list3
+315,hummingbird,5.085,17.716,list3
+315,deer,1.359,19.276,list3
+315,stingray,3.102,22.58,list3
+315,FINISHED,1.293,24.074,list3

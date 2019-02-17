@@ -1,0 +1,16 @@
+213,piano,5.801,5.801,list1
+213,turtle,1.91,7.914,list1
+213,FINISHED,14.747,22.863,list1
+213,penguin,4.291,4.291,list2
+213,deer,1.976,6.468,list2
+213,turtle,2.516,9.188,list2
+213,piano,2.005,11.396,list2
+213,whale,7.591,19.188,list2
+213,spoon,2.263,21.652,list2
+213,FINISHED,2.429,24.282,list2
+213,piano,3.116,3.116,list3
+213,turtle,1.815,5.133,list3
+213,desk,1.19,6.525,list3
+213,whale,1.079,7.805,list3
+213,spoon,1.109,9.117,list3
+213,FINISHED,9.62,18.938,list3

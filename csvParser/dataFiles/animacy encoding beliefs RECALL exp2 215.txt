@@ -1,0 +1,21 @@
+215,FINISHED,5.474,5.474,list1
+215,spoon,6.56,6.56,list2
+215,duck,2,8.761,list2
+215,fork,1.471,10.434,list2
+215,violin,3.575,14.21,list2
+215,tent ,1.719,16.13,list2
+215,python,8.429,24.761,list2
+215,minister,8.063,33.026,list2
+215,baby,6.158,39.385,list2
+215,deer,6.366,45.953,list2
+215,FINISHED,13.843,59.999,list2
+215,duck,5.22,5.22,list3
+215,spoon,1.959,7.382,list3
+215,purse,1.887,9.47,list3
+215,trout,2.982,12.654,list3
+215,journal,3.165,16.021,list3
+215,baby ,1.678,17.902,list3
+215,violin,3.446,21.549,list3
+215,minister ,2.693,24.445,list3
+215,python,6.189,30.837,list3
+215,FINISHED,4.869,35.908,list3

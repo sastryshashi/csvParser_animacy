@@ -1,0 +1,49 @@
+247,Spoon,5.447,5.447,list1
+247,Fork,1.816,7.465,list1
+247,blackbird,1.822,9.489,list1
+247,tortoise,3.557,13.248,list1
+247,chemist,4.543,17.993,list1
+247,yearbook,1.98,20.176,list1
+247,wasteland,13.446,33.824,list1
+247,deer,19.942,53.968,list1
+247,koala,9.901,64.072,list1
+247,FINISHED,18.667,82.942,list1
+247,senator,4.353,4.353,list2
+247,spoon,4.025,8.579,list2
+247,fork ,0.614,9.395,list2
+247,koala,0.758,10.355,list2
+247,deer,0.629,11.186,list2
+247,blackbird,5.55,16.938,list2
+247,ortoise,1.021,18.162,list2
+247,benzene ,3.406,21.771,list2
+247,chemist,4.486,26.458,list2
+247,wasteland,3.11,29.77,list2
+247,fiddle,4.158,34.13,list2
+247,bulldog,3.271,37.602,list2
+247,farmhouse,1.245,39.05,list2
+247,bicycle ,19.79,59.042,list2
+247,,16.006,75.249,list2
+247,FINISHED,1.789,77.24,list2
+247,blackbird,3.481,3.481,list3
+247,yearbook,1.353,5.035,list3
+247,rubber,0.844,6.082,list3
+247,senator,1.017,7.302,list3
+247,tortise,1.035,8.538,list3
+247,mackarel,5.821,14.562,list3
+247,astrounot,5.878,20.642,list3
+247,deer,12.15,32.994,list3
+247,poon,0.934,34.13,list3
+247,ork ,0.719,35.051,list3
+247,armhouse,1.014,36.266,list3
+247,nsect,0.966,37.434,list3
+247,fork,7.046,44.682,list3
+247,insect,4.459,49.345,list3
+247,spoon,7.566,57.113,list3
+247,wasteland,8.551,65.866,list3
+247,farmhouse,6.902,72.969,list3
+247,bulldog,4.622,77.794,list3
+247,koala,1.068,79.064,list3
+247,chemist,0.918,80.184,list3
+247,athlete,1.094,81.48,list3
+247,enzene ,14.623,96.306,list3
+247,FINISHED,11.596,108.104,list3

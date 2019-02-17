@@ -1,0 +1,17 @@
+189,chisel,15.053,15.053,list1
+189,scorpion,4.799,20.054,list1
+189,ostritch ,6.894,27.15,list1
+189,FINISHED,37.259,64.612,list1
+189,spoon,5.065,5.065,list2
+189,deer,1.272,6.538,list2
+189,ostritch,2.518,9.258,list2
+189,raven,12.19,21.65,list2
+189,koala,7.095,28.946,list2
+189,FINISHED,17.421,46.568,list2
+189,spoon,3.435,3.435,list3
+189,swan,1.311,4.948,list3
+189,diploma,2.678,7.828,list3
+189,fork,5.973,14.004,list3
+189,deer,4.046,18.252,list3
+189,headband,4.535,22.988,list3
+189,FINISHED,41.22,64.409,list3

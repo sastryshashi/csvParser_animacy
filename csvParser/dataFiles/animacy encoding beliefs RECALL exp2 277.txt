@@ -1,0 +1,42 @@
+277,spaceship,7.074,7.074,list1
+277,astronaut ,6.105,13.38,list1
+277,spoon,2.845,16.428,list1
+277,nudist ,1.566,18.195,list1
+277,civilian ,5.582,23.979,list1
+277,bronze ,2.15,26.331,list1
+277,deer,1.349,27.883,list1
+277, bicycle,28.1,56.186,list1
+277,FINISHED,27.019,83.408,list1
+277,putty ,4.444,4.444,list2
+277,gymnast ,2.518,7.165,list2
+277,wasteland,3.094,10.461,list2
+277,spoon ,4.685,15.349,list2
+277,deer,1.061,16.612,list2
+277,ambasador ,11.038,27.852,list2
+277,bicycle ,6.694,34.749,list2
+277,space ,2.455,37.405,list2
+277,spaceship ,3.35,40.957,list2
+277,austronaut,8.396,49.556,list2
+277,beaver,9.807,59.565,list2
+277,senator ,4.918,64.684,list2
+277,civilian ,2.582,67.469,list2
+277,nudist ,4.966,72.637,list2
+277,paint ,8.247,81.085,list2
+277,FINISHED,3.005,84.291,list2
+277,spoon ,3.673,3.673,list3
+277,deer,0.744,4.62,list3
+277,austronaut,2.445,7.268,list3
+277,spaceship,5.75,13.219,list3
+277,nudist ,3.638,17.059,list3
+277,paint ,1.15,18.411,list3
+277,senator ,1.805,20.419,list3
+277,civillian ,2.324,22.946,list3
+277,bronze ,3.022,26.171,list3
+277,koala,2.349,28.722,list3
+277,spoon ,1.981,30.906,list3
+277,fork,1.117,32.226,list3
+277,oyster ,9.845,42.274,list3
+277,marker ,1.125,43.602,list3
+277,toolbox,1.494,45.298,list3
+277,bride,2.757,48.258,list3
+277,FINISHED,1.715,50.176,list3

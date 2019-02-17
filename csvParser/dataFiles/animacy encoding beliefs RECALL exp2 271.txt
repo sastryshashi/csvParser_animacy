@@ -1,0 +1,75 @@
+271,spoon,9.676,9.676,list1
+271,deer,2.088,11.965,list1
+271,athlete,2.583,14.749,list1
+271,oyster,2.5,17.453,list1
+271,package,4.086,21.741,list1
+271,putty,2.198,24.141,list1
+271,chauffer,4.293,28.637,list1
+271,civilian,5.895,34.733,list1
+271,brewery,3.607,38.541,list1
+271,tugboat,2.709,41.452,list1
+271,tortoise,4.005,45.66,list1
+271,magnet,2.47,48.332,list1
+271,pig,4.981,53.516,list1
+271,chemist,2.998,56.717,list1
+271,pencil ,3.684,60.604,list1
+271,niece,2.839,63.644,list1
+271,spaceship,5.27,69.116,list1
+271,climber,2.053,71.371,list1
+271,bronze,4.614,76.186,list1
+271,seashore,15.415,91.803,list1
+271,bride,6.871,98.876,list1
+271,camel ,3.223,102.301,list1
+271,goose,2.45,104.955,list1
+271,fork ,2.711,107.867,list1
+271,FINISHED,20.892,128.963,list1
+271,spoon,3.386,3.386,list2
+271,deer,1.223,4.811,list2
+271,magnet ,7.446,12.459,list2
+271,pencil,3.462,16.123,list2
+271,civillian ,2.902,19.227,list2
+271,brewery,3.399,22.827,list2
+271,athlete,6.022,29.051,list2
+271,climber,3.19,32.443,list2
+271,pig,4.199,36.843,list2
+271,oyster,2.678,39.723,list2
+271,tower,8.55,48.474,list2
+271,chemist,4.838,53.514,list2
+271,spaceship ,9.222,62.938,list2
+271,niece,2.133,65.274,list2
+271,woman ,11.446,76.922,list2
+271,putty,1.654,78.778,list2
+271,chauffer,16.646,95.626,list2
+271,package,2.438,98.266,list2
+271,tortoise ,12.213,110.682,list2
+271,seashore,3.222,114.106,list2
+271,bronze ,8.453,122.762,list2
+271,bride ,1.799,124.762,list2
+271,camel ,3.173,128.137,list2
+271,fork ,1.476,129.817,list2
+271,FINISHED,22.381,152.4,list2
+271,spoon,3.411,3.411,list3
+271,deer,1.656,5.268,list3
+271,ornament ,3.525,8.996,list3
+271,athlete ,10.134,19.332,list3
+271,climber ,1.684,21.22,list3
+271,magnet ,2.871,24.292,list3
+271,pencil ,2.39,26.884,list3
+271,civilian ,11.446,38.532,list3
+271,brewery ,5.334,44.067,list3
+271,tugboat ,11.814,56.083,list3
+271,pig ,1.861,58.147,list3
+271,chemist ,3.014,61.363,list3
+271,tower,2.405,63.971,list3
+271,woman ,3.479,67.651,list3
+271,putty ,3.015,70.867,list3
+271,tortoise ,2.934,74.003,list3
+271,seashore ,2.116,76.323,list3
+271,camel ,10.165,86.691,list3
+271,bride ,2.039,88.931,list3
+271,fork,1.764,90.898,list3
+271,goose,2.117,93.218,list3
+271,niece ,4.343,97.762,list3
+271,spaceship ,5.461,103.425,list3
+271,oyster ,32.948,136.576,list3
+271,FINISHED,19.542,156.321,list3

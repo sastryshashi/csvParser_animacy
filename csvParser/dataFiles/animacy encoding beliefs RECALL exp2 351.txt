@@ -1,0 +1,57 @@
+351,spoon,16.39,16.39,list1
+351,deer,2.135,18.727,list1
+351,violin,7.174,26.104,list1
+351,couch,4.358,30.664,list1
+351,tire,1.142,32.007,list1
+351,mouse,1.724,33.934,list1
+351,scorpion,6.125,40.263,list1
+351,barracuda,3.517,43.983,list1
+351,snake,6.053,50.239,list1
+351,jaguar,4.271,54.711,list1
+351,lamp,2.069,56.983,list1
+351,motorcycle,3.398,60.582,list1
+351,jellyfish ,10.312,71.095,list1
+351,panther,2.543,73.839,list1
+351,toilet,6.2,80.239,list1
+351,faucet,2.991,83.431,list1
+351,goose,4.797,88.431,list1
+351,FINISHED,12.79,101.421,list1
+351,hammer,5.632,5.632,list2
+351,shark,2.439,8.274,list2
+351,crocodile,2.166,10.642,list2
+351,candle,1.925,12.77,list2
+351,dolphin,2.886,15.859,list2
+351,bicycle,2.703,18.762,list2
+351,flamingo ,28.405,47.369,list2
+351,envelope ,5.542,53.114,list2
+351,fork,2.23,55.546,list2
+351,faucet,2.892,58.641,list2
+351,violin,12.549,71.394,list2
+351,spoon ,5.743,77.338,list2
+351,deer,1.606,79.145,list2
+351,couch,2.133,81.481,list2
+351,tire,4.078,85.762,list2
+351,mouse,23.118,109.082,list2
+351,scorpion,2.99,112.273,list2
+351,barracuda ,4.405,116.879,list2
+351,snake,2.661,119.743,list2
+351,lamp,16.526,136.473,list2
+351,jellyfish ,6.511,143.185,list2
+351,jaguar,28.821,172.208,list2
+351,panther,14.021,186.432,list2
+351,goose,6.782,193.417,list2
+351,FINISHED,2.715,196.336,list2
+351,hammer,3.914,3.914,list3
+351,shark,2.102,6.22,list3
+351,spoon,4.592,11.013,list3
+351,deer,2.677,13.891,list3
+351,violin,3.701,17.796,list3
+351,couch,2.03,20.027,list3
+351,mouse,2.894,23.124,list3
+351,crossbow,2.686,26.012,list3
+351,motorcycle,5.063,31.276,list3
+351,panther,2.759,34.236,list3
+351,envelope,3.03,37.467,list3
+351,faucet,3.702,41.372,list3
+351,flamingo,7.487,49.059,list3
+351,FINISHED,19.558,68.818,list3

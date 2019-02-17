@@ -1,0 +1,48 @@
+412,farmhouse,8.021,8.021,list1
+412,bunny ,2.832,11.056,list1
+412,bride ,1.852,13.112,list1
+412,parent,1.638,14.952,list1
+412,amassabor,4.063,19.216,list1
+412,spoon ,4.253,23.671,list1
+412,deer,2.076,25.951,list1
+412,chicken ,2.123,28.278,list1
+412,carpenter,12.006,40.487,list1
+412,diary ,7.957,48.646,list1
+412,fiddle ,4.469,53.319,list1
+412,oranment ,19.477,72.998,list1
+412,FINISHED,15.899,89.1,list1
+412,farmhouse ,3.132,3.132,list2
+412,brewerly ,7.351,10.686,list2
+412,spoon ,3.727,14.614,list2
+412,fork ,1.526,16.342,list2
+412,ranch ,1.301,17.846,list2
+412,blackbird ,2.781,20.829,list2
+412,diary ,1.077,22.109,list2
+412,deer,1.981,24.293,list2
+412,ambassdor ,7.524,32.02,list2
+412,parent,12.694,44.917,list2
+412,bride,1.037,46.157,list2
+412,civilan ,7.23,53.589,list2
+412,chicken ,1.438,55.229,list2
+412,carpenter,13.95,69.381,list2
+412,fiddle ,3.349,72.933,list2
+412,adimarl ,23.766,96.901,list2
+412,FINISHED,10.403,107.507,list2
+412,spoon ,5.208,5.208,list3
+412,deer,0.696,6.106,list3
+412,bunny ,2.558,8.866,list3
+412,putty ,1.79,10.857,list3
+412,insect,3.317,14.377,list3
+412,bride ,1.116,15.696,list3
+412,parent,1.349,17.249,list3
+412,ornament ,1.595,19.048,list3
+412,farmhouse,4.141,23.393,list3
+412,goose,1.189,24.785,list3
+412,furniture,3.582,28.569,list3
+412,ambassdors ,6.566,35.337,list3
+412,fiddle ,4.317,39.857,list3
+412,diary ,4.174,44.232,list3
+412,fork ,2.35,46.785,list3
+412,blackbird,4.071,51.057,list3
+412,admiral ,8.469,59.728,list3
+412,FINISHED,23.207,83.15,list3

@@ -1,0 +1,34 @@
+371,Deer,7.543,7.543,list1
+371,Engineer,4.35,12.097,list1
+371,Spoon,3.334,15.633,list1
+371,Owl,1.694,17.529,list1
+371,Slipper,10.358,28.088,list1
+371,Rake,26.286,54.576,list1
+371,FINISHED,6.636,61.414,list1
+371,Deer,7.817,7.817,list2
+371,Slipper,2.208,10.227,list2
+371,Spoon,2.295,12.723,list2
+371,Turtle,2.246,15.171,list2
+371,Owl,1.878,17.25,list2
+371,Rake,1.918,19.37,list2
+371,Minister,5.07,24.643,list2
+371,Bee,20.151,44.995,list2
+371,Hat,15.91,61.106,list2
+371,Baby,3.174,64.482,list2
+371,Wolf,4.573,69.258,list2
+371,FINISHED,34.652,104.111,list2
+371,Deer,3.355,3.355,list3
+371,Spoon,1.704,5.261,list3
+371,Spider,3.045,8.508,list3
+371,Hat,2.229,10.94,list3
+371,Soldier ,2.294,13.436,list3
+371,Minister,2.726,16.364,list3
+371,Turtle ,4.061,20.628,list3
+371,Owl,2.086,22.916,list3
+371,Fork,2.358,25.476,list3
+371,Slipper,3.83,29.508,list3
+371,Duck ,9.958,39.668,list3
+371,Violin,4.35,44.219,list3
+371,Wolf,7.95,52.371,list3
+371,Goose,11.501,64.076,list3
+371,FINISHED,22.325,86.602,list3

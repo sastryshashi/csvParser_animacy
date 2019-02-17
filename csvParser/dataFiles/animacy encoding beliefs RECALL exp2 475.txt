@@ -1,0 +1,13 @@
+475,FINISHED,13.509,13.509,list1
+475,chauffer,9.003,9.003,list2
+475,bride,3.527,12.732,list2
+475,deer,2.133,15.068,list2
+475,bloodhound,7.942,23.212,list2
+475,FINISHED,7.795,31.209,list2
+475,bloodhound,5.187,5.187,list3
+475,package,5.512,10.9,list3
+475,deer,2.005,13.108,list3
+475,doctor,4.118,17.428,list3
+475,chaueffer,6.647,24.276,list3
+475,pencil,6.439,30.916,list3
+475,FINISHED,5.516,36.634,list3

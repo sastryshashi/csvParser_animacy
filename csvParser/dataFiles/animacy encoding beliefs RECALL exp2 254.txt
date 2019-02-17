@@ -1,0 +1,30 @@
+254,spoon ,10.411,10.411,list1
+254,deer,3.72,14.332,list1
+254,engineer ,11.396,25.931,list1
+254,hat ,13.621,39.756,list1
+254,baby ,5.621,45.579,list1
+254,kite,2.71,48.492,list1
+254,purse ,5.143,53.836,list1
+254,wolf ,6.133,60.171,list1
+254,FINISHED,22.227,82.601,list1
+254,spoon ,8.179,8.179,list2
+254,deer ,2.791,11.172,list2
+254,whistle ,4.501,15.876,list2
+254,engineer,6.934,23.012,list2
+254,hat ,3.572,26.787,list2
+254,baby ,1.495,28.484,list2
+254,wolf ,3.174,31.859,list2
+254,bee ,2.149,34.211,list2
+254,violin ,11.334,45.748,list2
+254,spider ,16.31,62.26,list2
+254,FINISHED,1.565,64.026,list2
+254,spoon ,4.811,4.811,list3
+254,deer,3.574,8.589,list3
+254,stove ,5.286,14.077,list3
+254,doll ,1.863,16.141,list3
+254,purse ,11.365,27.709,list3
+254,bee ,2.167,30.077,list3
+254,hat ,4.455,34.733,list3
+254,whistle ,4.311,39.245,list3
+254,trout ,20.645,60.092,list3
+254,FINISHED,8.619,68.914,list3

@@ -1,0 +1,47 @@
+283,paddle,3.756,3.756,list1
+283,deer,1.799,5.757,list1
+283,superhero,2.414,8.373,list1
+283,veil,1.757,10.333,list1
+283,carpenter,2.999,13.533,list1
+283,fireman,1.647,15.381,list1
+283,spoon,13.558,29.141,list1
+283,furniture,5.983,35.325,list1
+283,banker,34.246,69.773,list1
+283,markel,16.084,86.061,list1
+283,FINISHED,24.027,110.29,list1
+283,carpenter,3.378,3.378,list2
+283,chicken ,10.016,13.595,list2
+283,paddle ,2.957,16.755,list2
+283,superhero ,2.23,19.187,list2
+283,fireman,2.159,21.547,list2
+283,banker,3.415,25.163,list2
+283,veil,3.062,28.427,list2
+283,astrountant,5.269,33.898,list2
+283,spoon,3.583,37.683,list2
+283,yearbook,7.077,44.962,list2
+283,wasteland,3.766,48.93,list2
+283,oyster,15.118,64.25,list2
+283,deer,6.19,70.642,list2
+283,merckl,36.014,106.858,list2
+283,farmhouse,17.862,124.922,list2
+283,FINISHED,16.459,141.584,list2
+283,banker,2.762,2.762,list3
+283,bicycle,2.991,5.955,list3
+283,gymnast,5.533,11.691,list3
+283,oyster,1.454,13.347,list3
+283,farmhouse,1.95,15.499,list3
+283,astronaunt,12.319,28.019,list3
+283,fireman,3.494,31.715,list3
+283,paddle,1.277,33.194,list3
+283,spoon,1.716,35.114,list3
+283,wasteland,2.878,38.194,list3
+283,superhero,3.574,41.97,list3
+283,chicken,4.214,46.386,list3
+283,ranch\,1.831,48.418,list3
+283,veil,4.293,52.914,list3
+283,deer,17.486,70.602,list3
+283,yearbook,7.454,78.258,list3
+283,admiral,8.254,86.714,list3
+283,goose,24.342,111.258,list3
+283,chaufer,14.086,125.546,list3
+283,FINISHED,2.06,127.808,list3

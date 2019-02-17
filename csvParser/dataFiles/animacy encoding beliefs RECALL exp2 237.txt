@@ -1,0 +1,51 @@
+237,stereo,13.197,13.197,list1
+237,manatee,4.679,18.079,list1
+237,bowl,3.862,22.144,list1
+237,broom,1.974,24.319,list1
+237,scorpion,4.485,29.007,list1
+237,kangeroo,8.31,37.52,list1
+237,toilet,4.245,41.967,list1
+237,spoon,3.725,45.895,list1
+237,owl,24.581,70.678,list1
+237,dolphin,17.806,88.687,list1
+237,whale,8.813,97.703,list1
+237,tiger,12.453,110.358,list1
+237,FINISHED,44.069,154.63,list1
+237,stingray,5.964,5.964,list2
+237,fork,4.317,10.484,list2
+237,spoon,2.015,12.701,list2
+237,manatee,2.254,15.157,list2
+237,giraffe,3.446,18.805,list2
+237,whale,7.263,26.269,list2
+237,dolphin ,5.726,32.197,list2
+237,microwave ,3.517,35.917,list2
+237,dog,1.302,37.42,list2
+237,goose,1.883,39.507,list2
+237,stereo,12.086,51.796,list2
+237,owl,6.829,58.828,list2
+237,cellphone ,14.524,73.556,list2
+237,broom,17.789,91.548,list2
+237,bowl,23.517,115.267,list2
+237,spider,8.246,123.716,list2
+237,scorpion ,8.854,132.772,list2
+237,kangaroo,3.35,136.324,list2
+237,basket ,26.861,163.387,list2
+237,FINISHED,10.027,173.618,list2
+237,comb,3.012,3.012,list3
+237,stingray ,4.592,7.806,list3
+237,bowl ,3.037,11.046,list3
+237,owl,1.461,12.71,list3
+237,whale,1.431,14.342,list3
+237,dolphin,4.582,19.125,list3
+237,giraffe,11.501,30.829,list3
+237,spider,2.677,33.709,list3
+237,falcon,4.221,38.132,list3
+237,spoon,3.75,42.085,list3
+237,fork,1.983,44.269,list3
+237,deer,6.399,50.869,list3
+237,stereo,1.965,53.036,list3
+237,manatee,3.47,56.709,list3
+237,broom ,20.462,77.372,list3
+237,toilet ,21.006,98.581,list3
+237,tiger,29.013,127.796,list3
+237,FINISHED,29.715,157.714,list3

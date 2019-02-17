@@ -1,0 +1,64 @@
+171,sppom,3.353,3.353,list1
+171,spoon,4.48,8.034,list1
+171,deer,1.935,10.17,list1
+171,zevra,2.326,12.698,list1
+171,rat,0.966,13.866,list1
+171,clothespinj,2.719,16.786,list1
+171,raven,1.302,18.29,list1
+171,worm,3.726,22.217,list1
+171,scorpion,2.174,24.593,list1
+171,candle,15.021,39.817,list1
+171,towel,2.661,42.681,list1
+171,hummingbird,13.806,56.689,list1
+171,armidillo ,5.294,62.185,list1
+171,chair,56.557,118.945,list1
+171,whistle ,7.989,127.137,list1
+171,hedgehog,14.231,141.57,list1
+171,coyote,46.638,188.409,list1
+171,FINISHED,8.316,196.928,list1
+171,worm,4.497,4.497,list2
+171,scorpion,3.031,7.73,list2
+171,deer,3.365,11.298,list2
+171,crossbow,2.039,13.538,list2
+171,badger,1.655,15.394,list2
+171,diploma,5.303,20.898,list2
+171,candle,3.99,25.09,list2
+171,spoon ,3.246,28.538,list2
+171,zebra ,2.365,31.105,list2
+171,armidillo ,4.606,35.913,list2
+171,raven ,1.637,37.753,list2
+171,tire,2.094,40.049,list2
+171,hedgehog,10.982,51.233,list2
+171,rat,5.918,57.353,list2
+171,towel ,16.175,73.729,list2
+171,notepad,11.223,85.153,list2
+171,hummingbird,9.494,94.849,list2
+171,clothespin,50.724,145.776,list2
+171,chair,44.886,190.865,list2
+171,whistle ,32.004,223.071,list2
+171,trumpet,12.048,235.321,list2
+171,FINISHED,9.325,244.847,list2
+171,helmet,2.898,2.898,list3
+171,goose,1.32,4.419,list3
+171,fork,1.669,6.29,list3
+171,drum,4.046,10.539,list3
+171,ferret,2.55,13.29,list3
+171,treumpet,10.254,23.747,list3
+171,diploma,2.771,26.721,list3
+171,scorpion ,3.254,30.178,list3
+171,spoon,4.181,34.562,list3
+171,deer ,1.35,36.114,list3
+171,zebra,2.799,39.114,list3
+171,goose,5.15,44.466,list3
+171,tire,11.734,56.402,list3
+171,candle,7.702,64.306,list3
+171,rat,0.903,65.41,list3
+171,whistle,1.695,67.306,list3
+171,notepad,10.044,77.553,list3
+171,towel,13.959,91.714,list3
+171,armidillo,19.663,111.578,list3
+171,hummingbird,3.574,115.353,list3
+171,chair,11.239,126.794,list3
+171,worm,15.782,142.778,list3
+171,badger,22.727,165.706,list3
+171,FINISHED,121.099,287.007,list3

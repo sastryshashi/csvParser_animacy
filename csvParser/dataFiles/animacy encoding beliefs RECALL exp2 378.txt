@@ -1,0 +1,45 @@
+378,spoon ,12.211,12.211,list1
+378,deer,1.958,14.372,list1
+378,racoon,7.526,22.101,list1
+378,trumpet,3.398,25.701,list1
+378,sweater ,9.448,35.349,list1
+378,mitten ,3.845,39.397,list1
+378,misquito,7.527,47.125,list1
+378,dresser ,11.127,58.453,list1
+378,chisel ,4.166,62.82,list1
+378,crown ,2.583,65.605,list1
+378,bear ,5.862,71.668,list1
+378,hawk,2.212,74.083,list1
+378,panther ,3.19,77.476,list1
+378,candel ,2.486,80.164,list1
+378,dingo,25.78,106.148,list1
+378,FINISHED,10.91,117.259,list1
+378,spoon ,6.012,6.012,list2
+378,mosiquito,4.807,11.02,list2
+378,fork,1.19,12.413,list2
+378,umberlla,4.214,16.829,list2
+378,dingo,3.128,20.157,list2
+378,hawk ,5.99,26.348,list2
+378,bear,1.175,27.724,list2
+378,mitten,4.518,32.444,list2
+378,candel,2.485,35.132,list2
+378,goose,6.005,41.339,list2
+378,deer,20.086,61.628,list2
+378,FINISHED,28.763,90.594,list2
+378,spoon ,5.196,5.196,list3
+378,deer,2.102,7.5,list3
+378,raccoon,5.478,13.181,list3
+378,crown,4.504,17.885,list3
+378, dingo,3.251,21.339,list3
+378,alligator,3.126,24.668,list3
+378, buffalo,3.302,28.173,list3
+378,chisel,3.942,32.316,list3
+378,trumpet,5.556,38.075,list3
+378,hawk,3.686,41.964,list3
+378,wolf,1.365,43.532,list3
+378,bear,2.694,46.427,list3
+378,comb,20.086,66.716,list3
+378,wallet,5.974,72.891,list3
+378,sweater,3.653,76.747,list3
+378,mitten,2.102,79.052,list3
+378,FINISHED,5.525,84.778,list3

@@ -1,0 +1,37 @@
+159,deer,3.226,3.226,list1
+159,spoon,3.441,6.868,list1
+159,donkey ,6.078,13.147,list1
+159,dingo ,2.188,15.539,list1
+159,crocodile,4.423,20.163,list1
+159,tire,1.358,21.723,list1
+159,pillow,2.859,24.786,list1
+159,kangeroo,3.525,28.515,list1
+159,butterfly,8.374,37.091,list1
+159,FINISHED,25.892,63.184,list1
+159,tire,2.082,2.082,list2
+159,donkey ,1.83,4.115,list2
+159,deer,1.628,5.947,list2
+159,kangaroo,4.189,10.339,list2
+159,antelope,2.093,12.635,list2
+159,screwdriver,4.573,17.411,list2
+159,butterfly,3.093,20.707,list2
+159,spoon,5.198,26.108,list2
+159,pillow,5.125,31.434,list2
+159,dingo,2.359,33.996,list2
+159,FINISHED,15.996,50.193,list2
+159,microwave,3.322,3.322,list3
+159,helmet,4.511,8.036,list3
+159,hummingbird,4.758,12.996,list3
+159,omb,0.981,14.18,list3
+159,comb,2.804,17.187,list3
+159,crow,1.612,19.003,list3
+159,donkey,6.774,25.98,list3
+159,dingo,1.157,27.34,list3
+159,deer,1.782,29.324,list3
+159,spoon ,4.014,33.539,list3
+159,buterfly,2.853,36.595,list3
+159,butterfly,4.077,40.875,list3
+159,kangaroo,4.767,45.844,list3
+159,toilet,4.678,50.723,list3
+159,antelope,3.212,54.138,list3
+159,FINISHED,18.612,72.953,list3

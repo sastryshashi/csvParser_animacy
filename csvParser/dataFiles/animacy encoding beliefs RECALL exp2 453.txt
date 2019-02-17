@@ -1,0 +1,52 @@
+453,spoon,11.139,11.139,list1
+453,deer,1.831,13.172,list1
+453,goat,2.692,16.068,list1
+453,goldfish,1.925,18.196,list1
+453,hedgehog,6.469,24.868,list1
+453,backpack,1.493,26.564,list1
+453,ruler,1.559,28.324,list1
+453,pigeon,2.071,30.596,list1
+453,jaguar,1.687,32.484,list1
+453,diploma,2.071,34.756,list1
+453,locust,6.598,41.556,list1
+453,FINISHED,60.557,102.314,list1
+453,needle ,3.483,3.483,list2
+453,monkey ,2.809,6.493,list2
+453,flute,1.287,7.981,list2
+453,kangaroo,2.678,10.86,list2
+453,drum,3.221,14.284,list2
+453,spoon,2.246,16.732,list2
+453,goldfish,1.878,18.812,list2
+453,goat,2.646,21.66,list2
+453,deer,10.15,32.012,list2
+453,pigeon,8.678,40.892,list2
+453,diploma,24.839,65.932,list2
+453,ruler,6.07,72.204,list2
+453,purse,11.047,83.452,list2
+453,panda,22.149,105.803,list2
+453,backpack,52.901,158.907,list2
+453,jaguar,33.43,192.54,list2
+453,FINISHED,18.988,211.729,list2
+453,broom ,3.593,3.593,list3
+453,fork ,2.392,6.187,list3
+453,needle,5.749,12.138,list3
+453,spoon,1.333,13.674,list3
+453,goat,0.901,14.778,list3
+453,goldfish,2.054,17.034,list3
+453,motorcycle,4.038,21.274,list3
+453,flute,3.862,25.338,list3
+453,jaguar,1.94,27.481,list3
+453,panda,1.59,29.274,list3
+453,kangaroo,2.453,31.929,list3
+453,badger,4.902,37.033,list3
+453,hedgehog,3.141,40.377,list3
+453,deer,1.782,42.361,list3
+453,needle,6.869,49.433,list3
+453,purse,1.767,51.401,list3
+453,diploma,2.789,54.393,list3
+453,ruler,15.012,69.609,list3
+453,backpack,4.79,74.601,list3
+453,monkey,10.437,85.241,list3
+453,locust,8.647,94.089,list3
+453,newspaper,16.086,110.377,list3
+453,FINISHED,32.629,143.207,list3

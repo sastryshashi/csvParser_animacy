@@ -1,0 +1,87 @@
+501,deer,5.226,5.226,list1
+501,spoon,8.046,13.475,list1
+501,gecko,5.884,19.563,list1
+501,doorknob,4.206,23.971,list1
+501,bottle ,5.253,29.427,list1
+501,purse,1.711,31.339,list1
+501,scorpion ,5.278,36.819,list1
+501,ladder,2.366,39.387,list1
+501,mouse,5.447,45.035,list1
+501,rat,2.606,47.842,list1
+501,cobra,2.206,50.25,list1
+501,hummingbird,5.79,56.242,list1
+501,heron,28.997,85.442,list1
+501,newspaper,11.756,97.402,list1
+501,ticket,6.542,104.146,list1
+501,envelope,2.791,107.139,list1
+501,toad,6.91,114.25,list1
+501,bear,5.678,120.13,list1
+501,swan,1.862,122.194,list1
+501,sock,7.116,129.512,list1
+501,butterfly ,9.319,139.034,list1
+501,necklace,2.911,142.146,list1
+501,gorilla ,7.51,149.858,list1
+501,wrench,2.319,152.378,list1
+501,basket,2.373,154.953,list1
+501,volleyball,6.64,161.794,list1
+501,goose ,18.286,180.282,list1
+501,fork,1.572,182.057,list1
+501,FINISHED,15.119,197.377,list1
+501,deer ,3.587,3.587,list2
+501,spoon,2.99,6.78,list2
+501,gecko,4.086,11.068,list2
+501,doorknob,8.798,20.068,list2
+501,bottle,4.751,25.02,list2
+501,purse,2.623,27.844,list2
+501,ladder,5.271,33.316,list2
+501,scorpion,4.382,37.9,list2
+501,bear,5.927,44.028,list2
+501,sock,1.75,45.979,list2
+501,swan,3.517,49.699,list2
+501,toad,2.829,52.731,list2
+501,ticket,1.348,54.283,list2
+501,envelope,4.966,59.451,list2
+501,hummingbird,22.166,81.819,list2
+501,heron,5.478,87.499,list2
+501,newspaper,4.142,91.843,list2
+501,gorilla,11.51,103.555,list2
+501,wrench,3.974,107.731,list2
+501,volleyball,2.629,110.562,list2
+501,basket,6.534,117.299,list2
+501,butterfly,2.894,120.395,list2
+501,necklace ,3.589,124.186,list2
+501,rat,11.568,135.955,list2
+501,mouse,2.75,138.907,list2
+501,cobra,7.814,146.923,list2
+501,fork,19.727,166.851,list2
+501,goose,1.694,168.747,list2
+501,FINISHED,1.372,170.321,list2
+501,deer,3.539,3.539,list3
+501,spoon,2.086,5.828,list3
+501,doorknob,9.757,15.788,list3
+501,gecko,5.454,21.444,list3
+501,purse,2.926,24.572,list3
+501,bottle,2.869,27.644,list3
+501,ladder,1.511,29.356,list3
+501,scorpion,5.758,35.316,list3
+501,bear,2.549,38.067,list3
+501,swan,2.453,40.723,list3
+501,sock,3.333,44.259,list3
+501,mouse,3.966,48.427,list3
+501,rat,1.941,50.571,list3
+501,cobra,1.687,52.459,list3
+501,hummingbird,5.742,58.403,list3
+501,heron,5.087,63.691,list3
+501,newspaper,2.486,66.379,list3
+501,ticket,5.005,71.586,list3
+501,envelope,2.438,74.226,list3
+501,toad,8.264,82.691,list3
+501,gorilla,4.022,86.915,list3
+501,volleyball,2.493,89.61,list3
+501,wrench,3.031,92.842,list3
+501,basket,4.399,97.442,list3
+501,butterfly,3.477,101.121,list3
+501,necklace,2.197,103.521,list3
+501,fork,7.145,110.867,list3
+501,goose,2.687,113.755,list3
+501,FINISHED,12.882,126.841,list3

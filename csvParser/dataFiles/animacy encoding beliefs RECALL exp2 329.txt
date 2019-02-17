@@ -1,0 +1,15 @@
+329,Spider,5.57,5.57,list1
+329,Doll,1.616,7.388,list1
+329,Violin,3.022,10.611,list1
+329,FINISHED,3.058,13.872,list1
+329,Violin,5.057,5.057,list2
+329,Deer,2.896,8.155,list2
+329,Trout,2.919,11.275,list2
+329,Wolf,0.879,12.355,list2
+329,FINISHED,1.628,14.184,list2
+329,Deer,7.452,7.452,list3
+329,Violin,1.718,9.373,list3
+329,Trout,3.901,13.477,list3
+329,Purse,1.622,15.302,list3
+329,Wolf,2.908,18.413,list3
+329,FINISHED,0.923,19.538,list3

@@ -1,0 +1,52 @@
+232,Bulldog,5.401,5.401,list1
+232,Bloodhound,2.83,8.434,list1
+232,chicken ,1.422,10.058,list1
+232,goose,1.661,11.922,list1
+232,koala,2.055,14.178,list1
+232,salesman,2.358,16.738,list1
+232,fireman,2.102,19.042,list1
+232,fork ,1.173,20.418,list1
+232,poon ,0.927,21.547,list1
+232,Spoon,4.764,26.513,list1
+232,rubber,4.182,30.897,list1
+232,deer,2.157,33.257,list1
+232,FINISHED,10.068,43.527,list1
+232,Fireman,3.338,3.338,list2
+232,Salesman,4.304,7.844,list2
+232,Doctor ,1.847,9.892,list2
+232,Parent,1.703,11.797,list2
+232,Miner ,1.679,13.677,list2
+232,Mackeral,2.013,15.892,list2
+232,Tortoise ,2.031,18.125,list2
+232,Goose,2.318,20.644,list2
+232,Chicken ,1.517,22.364,list2
+232,Bulldog ,1.855,24.42,list2
+232,Bloodhound,2.702,27.323,list2
+232,Rubber,2.934,30.459,list2
+232,Palace,1.877,32.539,list2
+232,Townhouse,1.886,34.627,list2
+232,Wasteland,4.215,39.043,list2
+232,Package ,2.735,41.979,list2
+232,FINISHED,6.412,48.594,list2
+232,Wasteland,4.379,4.379,list3
+232,Palace,1.423,6.004,list3
+232,Farmhouse ,2.702,8.908,list3
+232,Bulldog ,1.822,10.932,list3
+232,Bloodhound,2.269,13.404,list3
+232,mackerel,3.614,17.219,list3
+232,koala,2.022,19.443,list3
+232,tortoise,2.173,21.819,list3
+232,chicken ,1.67,23.691,list3
+232,goose,1.46,25.355,list3
+232,magnet,2.237,27.795,list3
+232,fireman,2.846,30.843,list3
+232,salesman,1.742,32.787,list3
+232,parent,1.543,34.531,list3
+232,miner,1.039,35.771,list3
+232,athlete ,5.997,41.971,list3
+232,spoon,1.398,43.571,list3
+232,fork ,0.893,44.666,list3
+232,bayonet,6.536,51.403,list3
+232,deer,20.31,71.915,list3
+232,rubber,5.567,77.683,list3
+232,FINISHED,3.236,81.121,list3

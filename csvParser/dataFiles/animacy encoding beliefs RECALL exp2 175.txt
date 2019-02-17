@@ -1,0 +1,28 @@
+175,farmhouse,12.017,12.017,list1
+175,senator ,4.223,16.443,list1
+175,astronaut,5.191,21.835,list1
+175,spoon,18.535,40.571,list1
+175,FINISHED,8.513,49.287,list1
+175,spoon,5.408,5.408,list2
+175,parent,1.328,6.938,list2
+175,bloodhound,3.935,11.074,list2
+175,senator,4.429,15.706,list2
+175,farmhouse,8.983,24.89,list2
+175,chemist,3.181,28.274,list2
+175,miner,1.286,29.761,list2
+175,tuortise,12.766,42.729,list2
+175,FINISHED,4.426,47.358,list2
+175,spoon,4.098,4.098,list3
+175,deer,1.079,5.38,list3
+175,casino ,2.334,7.915,list3
+175,farmhouse,1.871,9.988,list3
+175,miner,1.206,11.396,list3
+175,astrnoaut,3.686,15.284,list3
+175,teacher,3.829,19.315,list3
+175,parent,1.717,21.235,list3
+175,bloodhound,3.638,25.075,list3
+175,tourtise,2.413,27.691,list3
+175,senator ,6.334,34.227,list3
+175,chemist,4.109,38.539,list3
+175,carpenter,8.837,47.579,list3
+175,FINISHED,7.819,55.6,list3

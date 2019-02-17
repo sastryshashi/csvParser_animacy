@@ -1,0 +1,32 @@
+487,deer,12.949,12.949,list1
+487,fork,3.543,16.694,list1
+487,astronaut,10.181,27.078,list1
+487,bloodhound,8.102,35.382,list1
+487,spoon,7.285,42.87,list1
+487,niece ,8.15,51.222,list1
+487,veil,6.653,58.078,list1
+487,children ,23.046,81.326,list1
+487,,0.695,82.222,list1
+487,FINISHED,1.204,83.627,list1
+487,deer,4.609,4.609,list2
+487,pig,2.792,7.602,list2
+487,alleyway,2.877,10.682,list2
+487,casino,3.332,14.218,list2
+487,astronaut,4.422,18.842,list2
+487,spoon,8.629,27.674,list2
+487,doctor,2.399,30.274,list2
+487,bloodhound,4.887,35.362,list2
+487,veil,15.03,50.594,list2
+487,wasteland,17.847,68.642,list2
+487,FINISHED,16.483,85.327,list2
+487,fireman,3.953,3.953,list3
+487,bloodhound,7.128,11.282,list3
+487,veil,2.958,14.442,list3
+487,doctor,1.438,16.082,list3
+487,pig,3.182,19.466,list3
+487,spoon,2.078,21.746,list3
+487,goose,10.047,31.994,list3
+487,wasteland,13.927,46.122,list3
+487,ranch,19.615,65.938,list3
+487,blackbird,20.381,86.522,list3
+487,FINISHED,20.653,107.376,list3

@@ -1,0 +1,57 @@
+365,spoon,4.466,4.466,list1
+365,deer,1.686,6.356,list1
+365,drums,1.718,8.276,list1
+365,bee,2.212,10.691,list1
+365,engineer,3.046,13.939,list1
+365,wolf,2.07,16.211,list1
+365,owl,1.845,18.259,list1
+365,stove,2.501,20.963,list1
+365,baby,6.102,27.267,list1
+365,fork,3.541,31.01,list1
+365,violin,11.446,42.658,list1
+365,duck,34.71,77.571,list1
+365,FINISHED,30.404,108.176,list1
+365,spoon,4.538,4.538,list2
+365,fork,1.304,6.043,list2
+365,drums,1.43,7.676,list2
+365,deer,0.966,8.844,list2
+365,bee,1.316,10.362,list2
+365,minister,1.862,12.427,list2
+365,tent ,7.461,20.091,list2
+365,purse ,2.502,22.795,list2
+365,stove,2.612,25.611,list2
+365,baby,2.262,28.075,list2
+365,engineer,1.957,30.234,list2
+365,turtle,5.926,36.362,list2
+365,trout,1.669,38.234,list2
+365,wolf ,7.911,46.347,list2
+365,owl,1.222,47.77,list2
+365,journal,5.286,53.259,list2
+365,violin,14.327,67.787,list2
+365,soldier,26.932,94.921,list2
+365,python,9.029,104.153,list2
+365,FINISHED,6.543,110.897,list2
+365,sppon,2.306,2.306,list3
+365,tent,1.159,3.666,list3
+365,fork,1.141,5.011,list3
+365,soldier,1.59,6.803,list3
+365,violin,1.652,8.659,list3
+365,hat ,3.99,12.851,list3
+365,deer,2.63,15.683,list3
+365,duck,1.509,17.395,list3
+365,bee,0.868,18.467,list3
+365,spider,1.558,20.227,list3
+365,python,2.263,22.691,list3
+365,minister,3.543,26.435,list3
+365,engineer,2.069,28.706,list3
+365,baby,1.334,30.242,list3
+365,turtle,4.182,34.626,list3
+365,kite,18.709,53.538,list3
+365,purse,6.647,60.387,list3
+365,owl wolf,4.998,65.586,list3
+365,whistle ,7.813,73.601,list3
+365,slipper,2.053,75.856,list3
+365,trout,31.141,107.199,list3
+365,journal,12.327,119.729,list3
+365,wolf,3.126,123.058,list3
+365,FINISHED,1.461,124.721,list3

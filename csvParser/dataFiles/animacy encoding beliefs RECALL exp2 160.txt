@@ -1,0 +1,19 @@
+160,Spoon ,17.685,17.685,list1
+160,Fork,2.864,20.751,list1
+160,FINISHED,7.331,28.284,list1
+160,Spoon,5.004,5.004,list2
+160,Fork,3.367,8.573,list2
+160,Salesman,3.007,11.782,list2
+160,Chicken,6.67,18.653,list2
+160,Spaceship,5.229,24.085,list2
+160,deer,6.749,31.037,list2
+160,FINISHED,2.596,33.835,list2
+160,Sppon,4.418,4.418,list3
+160,Fork,5.537,10.156,list3
+160,Chicken,2.277,12.635,list3
+160,Salesman,3.11,15.947,list3
+160,Deer,3.18,19.331,list3
+160,Parent ,2.591,22.124,list3
+160,miner,10.174,32.499,list3
+160,Diary,4.598,37.299,list3
+160,FINISHED,9.172,46.672,list3

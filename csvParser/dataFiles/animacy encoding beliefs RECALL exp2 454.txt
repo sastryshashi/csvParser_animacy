@@ -1,0 +1,23 @@
+454,FINISHED,4.607,4.607,list1
+454,spoon,3.593,3.593,list2
+454,chauffeur,3.767,7.563,list2
+454,astronaut,6.071,13.835,list2
+454,daughter,2.183,16.219,list2
+454,diary,2.533,18.954,list2
+454,chicken,2.198,21.354,list2
+454,bayonet,5.494,27.05,list2
+454,farmhouse,9.221,36.474,list2
+454,athlete,15.205,51.882,list2
+454,coop,14.406,66.49,list2
+454,FINISHED,5.932,72.623,list2
+454,daughter,5.37,5.37,list3
+454,spoon,2.727,8.3,list3
+454,miner,2.23,10.732,list3
+454,camel,1.639,12.572,list3
+454,niece ,1.99,14.764,list3
+454,chicken,2.39,17.355,list3
+454,farmhouse,1.989,19.547,list3
+454,diary,1.765,21.515,list3
+454,putty,21.365,43.083,list3
+454,coal,17.158,60.443,list3
+454,FINISHED,15.604,76.249,list3

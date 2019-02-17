@@ -1,0 +1,57 @@
+286,woman,8.614,8.614,list1
+286,salesman,3.945,12.76,list1
+286,carpenter,4.231,17.192,list1
+286,spoon,4.439,21.832,list1
+286,fork,1.302,23.335,list1
+286,tortoise,4.805,28.343,list1
+286,tower,2.87,31.415,list1
+286,palace,2.214,33.831,list1
+286,painter,2.996,37.031,list1
+286,deer,6.886,44.119,list1
+286,bicycle,5.702,50.023,list1
+286,senator ,8.759,58.983,list1
+286,ukuleele,7.511,66.695,list1
+286,pig,88.295,155.191,list1
+286,FINISHED,2.411,157.804,list1
+286,goose,3.385,3.385,list2
+286,pig,0.807,4.395,list2
+286,pencil,2.519,7.115,list2
+286,spoon,4.071,11.387,list2
+286,deer,1.51,13.098,list2
+286,marker,2.948,16.25,list2
+286,casino,5.029,21.482,list2
+286,carpenter,2.262,23.946,list2
+286,bicycle ,4.918,29.066,list2
+286,tortise,2.229,31.498,list2
+286,uklele ,2.998,34.698,list2
+286,astronauht,7.543,42.442,list2
+286,toolbox,14.022,56.666,list2
+286,yearbook,3.365,60.234,list2
+286,women,3.671,64.106,list2
+286,salesmen,5.943,70.25,list2
+286,jewler,40.245,110.698,list2
+286,FINISHED,12.468,123.368,list2
+286,spoon,6.529,6.529,list3
+286,marker,1.863,8.595,list3
+286,pencil,1.495,10.291,list3
+286,toolbox,2.134,12.626,list3
+286,yearbook,2.837,15.666,list3
+286,bird ,1.254,17.122,list3
+286,pig ,1.174,18.498,list3
+286,camel,2.598,21.298,list3
+286,astronout,7.526,29.026,list3
+286,fork,7.797,37.026,list3
+286,woman,1.845,39.074,list3
+286,salesman,3.942,43.218,list3
+286,jewler,2.806,46.225,list3
+286,palace,6.854,53.281,list3
+286,painter,6.342,59.825,list3
+286,casino,2.822,62.85,list3
+286,carpenter,2.615,65.666,list3
+286,senator ,12.421,78.289,list3
+286,chemist,4.95,83.442,list3
+286,deer,16.501,100.145,list3
+286,bicycle ,14.397,114.754,list3
+286,tower,9.476,124.432,list3
+286,uklele,100.327,224.961,list3
+286,FINISHED,10.628,235.791,list3

@@ -1,0 +1,14 @@
+400,FINISHED,5.082,5.082,list1
+400,spoon,10.633,10.633,list2
+400,deer,2.952,13.787,list2
+400,climber,3.846,17.835,list2
+400,marker,2.485,20.523,list2
+400,FINISHED,9.98,30.704,list2
+400,spoon,8.53,8.53,list3
+400,deer,2.184,10.916,list3
+400,civilian,5.287,16.404,list3
+400,furniture,4.774,21.38,list3
+400,holstor,7.621,29.203,list3
+400,tugboat,3.557,32.963,list3
+400,bevenve,3.141,36.307,list3
+400,FINISHED,2.203,38.713,list3

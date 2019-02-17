@@ -1,0 +1,21 @@
+124,spaceship,5.332,5.332,list1
+124,wasteland,3.094,8.63,list1
+124,jeweler,3.951,12.782,list1
+124,bog,2.676,15.662,list1
+124,furniture,12.438,28.302,list1
+124,FINISHED,43.02,71.523,list1
+124,deer,6.259,6.259,list2
+124,bunny,1.16,7.621,list2
+124,beaver,1.255,9.077,list2
+124,koala,5.783,15.061,list2
+124,carpenter,2.358,17.621,list2
+124,jeweler,3.175,20.997,list2
+124,seashore,21.381,42.58,list2
+124,FINISHED,13.25,56.033,list2
+124,ukelele,6.97,6.97,list3
+124,chicken,5.152,12.324,list3
+124,pig,3.468,15.995,list3
+124,marker ,2.702,18.899,list3
+124,sppon,0.95,20.051,list3
+124,astronaut,10.014,30.267,list3
+124,FINISHED,11.731,42.201,list3
