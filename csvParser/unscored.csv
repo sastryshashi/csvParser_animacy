@@ -1,0 +1,396 @@
+104;{'list2': ['slippers'], 'list1': [], 'list3': ['slippers', 'tourtle', 'solider']}
+113;{'list2': ['poon'], 'list1': [], 'list3': ['soilder', 'spiced']}
+119;{'list2': [], 'list1': [], 'list3': []}
+122;{'list2': [], 'list1': ['slippers'], 'list3': ['wold', 'slippers']}
+128;{'list2': [], 'list1': [], 'list3': []}
+131;{'list2': ['forjk'], 'list1': [], 'list3': []}
+134;{'list2': [], 'list1': ['tree'], 'list3': []}
+140;{'list2': ['soilder'], 'list1': ['dool'], 'list3': ['engieneer', 'snake']}
+143;{'list2': [], 'list1': ['basby'], 'list3': []}
+146;{'list2': ['solider'], 'list1': [], 'list3': ['solider']}
+152;{'list2': [], 'list1': [], 'list3': ['trutle']}
+155;{'list2': ['soilder'], 'list1': ['dull'], 'list3': ['trutle', 'minster', 'solider']}
+158;{'list2': [], 'list1': [], 'list3': []}
+161;{'list2': [], 'list1': ['spoom'], 'list3': ['drum violin']}
+164;{'list2': ['Minstery', 'Rack'], 'list1': ['Minstery'], 'list3': ['Minstery']}
+167;{'list2': [], 'list1': ['solider'], 'list3': []}
+173;{'list2': ['jounral'], 'list1': ['urtle'], 'list3': []}
+176;{'list2': ['be'], 'list1': [], 'list3': []}
+182;{'list2': [], 'list1': ['bike'], 'list3': []}
+185;{'list2': ['solider', 'whisle'], 'list1': ['sppon', 'enginer'], 'list3': ['tutle']}
+188;{'list2': ['fox'], 'list1': ['bike', 'knife', 'cat'], 'list3': []}
+191;{'list2': [], 'list1': [], 'list3': []}
+194;{'list2': ['pider'], 'list1': ['door'], 'list3': ['sppon']}
+197;{'list2': [], 'list1': ['bark'], 'list3': ['poon', 'ork', 'urtle', 'oll']}
+200;{'list2': ['uck'], 'list1': ['solider'], 'list3': []}
+203;{'list2': ['jounal'], 'list1': ['bird', 'tree', 'snake'], 'list3': ['tree']}
+206;{'list2': [], 'list1': ['flower'], 'list3': ['minsiter']}
+209;{'list2': [], 'list1': ['slippers'], 'list3': []}
+212;{'list2': [], 'list1': [], 'list3': []}
+215;{'list2': [], 'list1': [], 'list3': []}
+218;{'list2': [], 'list1': ['ptyhin'], 'list3': ['pythin']}
+221;{'list2': ['phython'], 'list1': ['mice', 'ice'], 'list3': ['tutrle']}
+224;{'list2': [], 'list1': [], 'list3': ['owl spoon']}
+227;{'list2': [], 'list1': [], 'list3': []}
+230;{'list2': [], 'list1': [], 'list3': []}
+233;{'list2': [], 'list1': ['Dog'], 'list3': []}
+236;{'list2': [], 'list1': ['dog'], 'list3': []}
+239;{'list2': ['solider', 'frog'], 'list1': ['oven', 'frog'], 'list3': ['solider']}
+242;{'list2': ['sppon'], 'list1': [], 'list3': ['foek']}
+245;{'list2': [], 'list1': [], 'list3': []}
+248;{'list2': [], 'list1': [], 'list3': []}
+251;{'list2': ['solider'], 'list1': [], 'list3': ['solider']}
+254;{'list2': [], 'list1': [], 'list3': []}
+257;{'list2': ['solider'], 'list1': ['bird'], 'list3': []}
+260;{'list2': [], 'list1': [], 'list3': []}
+263;{'list2': [], 'list1': [], 'list3': []}
+266;"{'list2': ['solider', 'slippery', ""duck'""], 'list1': ['spon', 'dear', 'soilder', 'slippery', 'violen'], 'list3': []}"
+269;{'list2': [], 'list1': ['ministr'], 'list3': []}
+272;{'list2': ['violen', 'dreum'], 'list1': [], 'list3': []}
+275;"{'list2': ['journa;', 'solider'], 'list1': [], 'list3': []}"
+278;{'list2': [], 'list1': [], 'list3': ['violen']}
+281;{'list2': [], 'list1': [], 'list3': ['moose']}
+284;{'list2': ['engeneer', 'poon'], 'list1': [], 'list3': []}
+287;{'list2': [''], 'list1': [], 'list3': ['skipper']}
+290;{'list2': [], 'list1': [], 'list3': ['sppon']}
+293;{'list2': ['solider'], 'list1': [], 'list3': ['whitsle', 'solider']}
+296;{'list2': ['violen'], 'list1': [], 'list3': ['whiste', 'violen']}
+299;{'list2': ['wold', 'wolf*'], 'list1': ['sppon', 'spoon*', 'cat'], 'list3': []}
+302;{'list2': [], 'list1': [], 'list3': ['puthon', '', '']}
+305;{'list2': [], 'list1': ['journa'], 'list3': ['wold']}
+308;{'list2': ['forl'], 'list1': [], 'list3': ['sppon', 'box', 'tutrle']}
+311;{'list2': [], 'list1': [], 'list3': []}
+314;{'list2': [], 'list1': [], 'list3': []}
+317;{'list2': [], 'list1': [], 'list3': []}
+320;{'list2': ['violen', 'rack', 'wistle'], 'list1': ['violen'], 'list3': ['violen']}
+323;{'list2': [], 'list1': [], 'list3': []}
+326;{'list2': [], 'list1': [], 'list3': []}
+329;{'list2': [], 'list1': [], 'list3': []}
+331;{'list2': [], 'list1': [], 'list3': ['deeer']}
+333;{'list2': [], 'list1': ['spoom'], 'list3': ['pyhon']}
+335;{'list2': ['spide'], 'list1': [], 'list3': ['sppon', '', 'minister\\']}
+338;{'list2': ['violen'], 'list1': ['soilder'], 'list3': []}
+341;{'list2': [], 'list1': [], 'list3': []}
+344;{'list2': ['spoom', 'bowl', 'hst'], 'list1': ['bowl'], 'list3': ['bowl']}
+347;{'list2': [], 'list1': [], 'list3': []}
+350;{'list2': [], 'list1': [], 'list3': []}
+353;{'list2': [], 'list1': [], 'list3': []}
+356;{'list2': [], 'list1': [], 'list3': ['snake']}
+359;{'list2': [], 'list1': [], 'list3': ['spoo']}
+362;{'list2': ['spi9der', 'whiislte', 'golf'], 'list1': ['solider'], 'list3': ['rske', 'solider', 'iowl', 'journsal', 'voilin']}
+365;{'list2': ['drums'], 'list1': ['drums'], 'list3': ['sppon', 'owl wolf']}
+368;"{'list2': [], 'list1': ['wold', 'violen'], 'list3': ['deert', 'journa;']}"
+371;{'list2': [], 'list1': [], 'list3': []}
+374;{'list2': ['solider', 'spon'], 'list1': ['babty'], 'list3': ['poon']}
+377;{'list2': [], 'list1': [], 'list3': ['solider']}
+380;{'list2': ['slippers', 'drums'], 'list1': ['eer', 'drums', 'slippers'], 'list3': ['minsiter', 'ork', 'olf', 'slippers', 'drums']}
+383;{'list2': ['fox'], 'list1': ['ork', 'fox'], 'list3': ['fox']}
+386;{'list2': ['bird', '', 'snake'], 'list1': ['bird', 'crown'], 'list3': ['bird', 'cake']}
+389;{'list2': ['soilder'], 'list1': [], 'list3': ['drom', 'soilder']}
+392;{'list2': ['dear', 'pyhtoon', ''], 'list1': [], 'list3': ['owall']}
+395;{'list2': ['solider', 'soon'], 'list1': ['spon', 'wofl'], 'list3': ['wistle']}
+398;{'list2': [], 'list1': ['snake', 'tie'], 'list3': []}
+401;{'list2': [], 'list1': [], 'list3': []}
+404;{'list2': [], 'list1': [], 'list3': ['tout', 'magister']}
+407;{'list2': ['wold', '', 'soldie4r'], 'list1': [], 'list3': []}
+410;{'list2': [], 'list1': [], 'list3': ['sink']}
+413;{'list2': ['sppon', 'wold'], 'list1': [], 'list3': []}
+416;{'list2': ['fish'], 'list1': [], 'list3': ['fish']}
+419;{'list2': ['ENGINNER', 'SOLIDER'], 'list1': ['KEY'], 'list3': []}
+422;{'list2': ['enginner', 'pyhton'], 'list1': ['train'], 'list3': []}
+425;{'list2': ['tortuse', 'bell'], 'list1': [], 'list3': []}
+428;{'list2': [], 'list1': [], 'list3': []}
+431;{'list2': ['book', ''], 'list1': [], 'list3': ['ite']}
+433;{'list2': [], 'list1': [], 'list3': ['windmill', 'miner', 'admiral', 'nudist', 'niece', 'pig', 'ranch', 'bicycle', 'alleyway', 'blackbird', 'pants', 'putty', 'jeweler', 'doormat', 'astronaut', 'fireman', 'oyster', 'holster']}
+434;{'list2': ['HATE', 'SOILDER'], 'list1': [], 'list3': []}
+437;{'list2': [], 'list1': [], 'list3': []}
+440;{'list2': [], 'list1': [], 'list3': ['miniter']}
+446;{'list2': ['engeineer'], 'list1': [], 'list3': []}
+449;{'list2': [], 'list1': [], 'list3': []}
+452;{'list2': ['straw'], 'list1': ['straw'], 'list3': ['forl', 'straw']}
+455;{'list2': ['viloin'], 'list1': [], 'list3': []}
+458;{'list2': [], 'list1': [], 'list3': []}
+461;{'list2': [], 'list1': [], 'list3': []}
+464;{'list2': [], 'list1': ['frok', 'bell'], 'list3': []}
+467;{'list2': [], 'list1': ['Frog', 'Bear'], 'list3': ['Whitsle', 'Oven']}
+470;{'list2': [], 'list1': [], 'list3': []}
+473;{'list2': [], 'list1': [], 'list3': []}
+476;{'list2': [], 'list1': ['sppon'], 'list3': []}
+479;{'list2': [], 'list1': ['key'], 'list3': []}
+482;{'list2': [], 'list1': ['pruse'], 'list3': []}
+485;{'list2': ['tutrle', 'solider'], 'list1': ['spoom'], 'list3': []}
+488;{'list2': ['oil'], 'list1': ['oil'], 'list3': ['poon', 'ngineer', 'oil']}
+491;{'list2': [], 'list1': ['uvk'], 'list3': ['olf']}
+494;{'list2': [], 'list1': [], 'list3': []}
+497;{'list2': [], 'list1': [], 'list3': []}
+500;{'list2': [], 'list1': [], 'list3': []}
+503;{'list2': [], 'list1': [], 'list3': ['solidier', 'flipper']}
+506;{'list2': ['fish'], 'list1': ['pastor', 'child', 'egg'], 'list3': []}
+509;{'list2': [], 'list1': ['soldie'], 'list3': []}
+512;{'list2': ['oven'], 'list1': ['sandal'], 'list3': []}
+515;{'list2': ['enginner'], 'list1': [], 'list3': []}
+102;{'list2': ['sppon'], 'list1': [], 'list3': []}
+108;{'list2': ['elephant', 'glass', 'grossbow'], 'list1': ['catepillar', 'elephant'], 'list3': ['elephant', 'glass', 'catepillar']}
+110;{'list2': [], 'list1': [], 'list3': []}
+111;{'list2': [], 'list1': ['vace'], 'list3': []}
+114;{'list2': [], 'list1': [], 'list3': ['Spooon']}
+117;{'list2': [], 'list1': [], 'list3': []}
+123;{'list2': [], 'list1': ['dder', 'kitten'], 'list3': ['sppon']}
+126;{'list2': [], 'list1': ['snake'], 'list3': []}
+129;{'list2': ['antelopre'], 'list1': ['zebra'], 'list3': []}
+138;{'list2': ['bear', 'duck', 'fish'], 'list1': [], 'list3': ['moose', 'watch']}
+141;{'list2': [], 'list1': [], 'list3': ['deero']}
+144;{'list2': ['socks'], 'list1': ['plier'], 'list3': ['socks']}
+147;{'list2': ['rown', 'notebook'], 'list1': ['notebook', 'needle3'], 'list3': []}
+150;{'list2': [], 'list1': [], 'list3': []}
+153;{'list2': ['koal', 'ballon', 'flamengo', 'racoon'], 'list1': ['flamengo', 'beer', 'racoon'], 'list3': ['flamengo', 'gorrilla']}
+159;{'list2': [], 'list1': ['kangeroo'], 'list3': ['omb', 'buterfly']}
+162;{'list2': ['brush]', 'falcoon', 'helment'], 'list1': ['racoon', 'scisoors', 'stoolo', 'hawk', 'mosquitos', 'ferrat', 'helement'], 'list3': ['racoonj', 'helement', 'mosquitos', 'sciossers']}
+165;"{'list2': ['pleir', 'ru;er', 'clothspin'], 'list1': ['piler'], 'list3': ['eer', 'caterpiller', 'piler', 'harpschord']}"
+168;{'list2': [], 'list1': ['hummmingbird', 'barracaud'], 'list3': []}
+171;{'list2': ['armidillo '], 'list1': ['sppom', 'zevra', 'clothespinj', 'armidillo '], 'list3': ['treumpet', 'armidillo']}
+174;{'list2': [], 'list1': ['mouse'], 'list3': []}
+177;{'list2': ['allagator'], 'list1': ['bufflo', 'baracooda'], 'list3': ['baracuda']}
+180;{'list2': ['dalphin', 'horen', 'halmet', 'elt', 'belt***', 'closespin', 'barrcelona'], 'list1': ['halmet', 'allegator', 'fox'], 'list3': ['barrcalona']}
+186;{'list2': ['dragonflly', 'barel', 'umberella'], 'list1': ['Barel', 'umberella', 'geiko'], 'list3': ['aramdillo', 'barel', 'umberella']}
+189;{'list2': ['ostritch'], 'list1': ['ostritch '], 'list3': []}
+192;{'list2': ['purpse'], 'list1': ['purpse', 'gloves'], 'list3': ['toliet']}
+195;{'list2': ['catapillar', 'moose', 'racoon'], 'list1': ['moose', 'door'], 'list3': ['car', 'racoon', 'door']}
+198;{'list2': ['mosguito', 'penguieen'], 'list1': [], 'list3': ['mosguito', 'socks', 'mantee']}
+201;{'list2': ['gloves'], 'list1': ['aligator', 'gloves'], 'list3': ['gloves']}
+204;{'list2': ['baracuda'], 'list1': ['spoom', 'baracuda'], 'list3': ['baracuda']}
+207;{'list2': [], 'list1': [], 'list3': ['waller']}
+210;{'list2': [], 'list1': [], 'list3': []}
+213;{'list2': [], 'list1': [], 'list3': []}
+216;{'list2': [], 'list1': [], 'list3': ['resser']}
+219;{'list2': [], 'list1': [], 'list3': ['kunk']}
+222;"{'list2': [""jaguar'""], 'list1': ['plier'], 'list3': []}"
+225;{'list2': ['Chettah'], 'list1': [], 'list3': ['amardillo']}
+228;{'list2': [], 'list1': ['chair'], 'list3': ['crocodilla']}
+231;{'list2': [], 'list1': [], 'list3': []}
+234;{'list2': [], 'list1': [], 'list3': ['form']}
+237;{'list2': [], 'list1': ['kangeroo'], 'list3': []}
+240;{'list2': ['paper', 'deet', 'socks'], 'list1': ['basebal', 'bird'], 'list3': ['paper']}
+243;{'list2': ['perret'], 'list1': [], 'list3': []}
+246;{'list2': ['donky', 'facuet', 'armadillow', 'pengiun'], 'list1': ['donky', 'dophin', 'armadillow'], 'list3': ['dipolma', 'eer', 'envepope', 'motorcylce', 'armadillow', '(deer*)', 'facet', 'pengiun']}
+249;{'list2': ['caterpilar'], 'list1': ['crocodile'], 'list3': ['ock']}
+252;{'list2': [], 'list1': ['drsgonfly'], 'list3': []}
+255;{'list2': ['baracuda'], 'list1': [], 'list3': []}
+258;{'list2': ['for', 'accordian'], 'list1': [], 'list3': ['accordian']}
+261;{'list2': ['fauset'], 'list1': ['bike'], 'list3': ['motorcyle', 'kangaro', 'trumpit', 'bike']}
+264;{'list2': ['cheeta', 'gorrila'], 'list1': ['closepin ', 'kola '], 'list3': ['gorrila']}
+267;{'list2': [], 'list1': [], 'list3': []}
+270;{'list2': ['racoon', ''], 'list1': ['lamp'], 'list3': ['deep']}
+273;{'list2': ['ostrichh'], 'list1': [], 'list3': ['motorcyle', 'crocidle']}
+276;{'list2': ['com', 'moneky'], 'list1': [], 'list3': ['sppon']}
+279;{'list2': [], 'list1': [], 'list3': []}
+282;{'list2': [], 'list1': [], 'list3': []}
+285;{'list2': ['accordian'], 'list1': [], 'list3': []}
+288;{'list2': ['thimple'], 'list1': [], 'list3': ['thimple']}
+291;{'list2': ['Accordian', 'Gloves'], 'list1': ['Acordian', 'Gloves'], 'list3': ['acordian', 'gloves']}
+294;{'list2': ['oxford'], 'list1': ['oxford', 'frog', 'fox', '', ''], 'list3': ['ork', 'gutter']}
+297;{'list2': ['armidillo', 'harpschord'], 'list1': ['armidillo', 'harpschord', 'aligator'], 'list3': ['fencve', 'armidillo', 'aligator']}
+300;{'list2': [], 'list1': [], 'list3': ['corpion', 'cayote']}
+303;{'list2': ['accodian'], 'list1': ['whitsle', 'racoon'], 'list3': ['accordian', 'cissors']}
+306;{'list2': ['spoo'], 'list1': [], 'list3': []}
+309;{'list2': ['armardillo'], 'list1': [], 'list3': []}
+312;{'list2': [], 'list1': ['hat'], 'list3': ['racoon']}
+315;{'list2': [], 'list1': [], 'list3': []}
+318;{'list2': ['ealge'], 'list1': ['hampster'], 'list3': ['whale wolf']}
+321;{'list2': [], 'list1': [], 'list3': []}
+324;{'list2': [], 'list1': ['laundry'], 'list3': []}
+327;{'list2': [], 'list1': [], 'list3': []}
+330;{'list2': [], 'list1': [], 'list3': ['pilers']}
+336;"{'list2': ['comb'], 'list1': ['bow;', 'moose', 'elephant'], 'list3': ['oose', 'moose', 'stero']}"
+339;{'list2': ['brush'], 'list1': [], 'list3': []}
+342;{'list2': ['toliet'], 'list1': ['toliet'], 'list3': ['toliet']}
+345;{'list2': [], 'list1': [], 'list3': []}
+348;{'list2': ['eer', 'pider'], 'list1': ['delphin', 'knife', 'wrenh'], 'list3': ['oad']}
+351;{'list2': [], 'list1': [], 'list3': []}
+354;{'list2': [], 'list1': ['shark\\'], 'list3': ['ray', 'hore']}
+357;{'list2': ['connon'], 'list1': ['baracuda', 'hangar'], 'list3': ['chisle', 'hampster']}
+360;{'list2': ['for', 'moneky', 'gorrilla', 'leapord'], 'list1': ['leapord'], 'list3': ['sppon']}
+363;{'list2': ['', 'shoes'], 'list1': [], 'list3': ['aligator', 'shoes']}
+366;{'list2': [], 'list1': ['rats', 'mittens', 'shoes', 'panda', 'fox'], 'list3': ['ostrich', 'locusts']}
+369;{'list2': [], 'list1': [], 'list3': ['spool', 'rog']}
+372;{'list2': [], 'list1': [], 'list3': []}
+375;{'list2': ['pliars', 'aquarium'], 'list1': ['cowe'], 'list3': []}
+378;{'list2': ['mosiquito', 'umberlla', 'candel'], 'list1': ['racoon', 'misquito', 'candel '], 'list3': []}
+381;{'list2': [], 'list1': ['lepord'], 'list3': ['poon']}
+384;{'list2': ['monkey panther'], 'list1': [], 'list3': []}
+387;{'list2': ['crocidile', 'catapillar', 'hawk', 'harpiscope', 'zebra'], 'list1': [], 'list3': ['baloon', 'harpiscope']}
+390;{'list2': [], 'list1': [], 'list3': ['sppon', 'sool']}
+393;{'list2': ['moose'], 'list1': ['sppon ', 'sppon', 'goldfiswh', 'waspo', 'deploma'], 'list3': []}
+396;{'list2': ['closet'], 'list1': ['humming birg'], 'list3': ['sppon']}
+399;"{'list2': ['orschrid'], 'list1': ['oschrid'], 'list3': ['penci;', 'bird', 'orshrid']}"
+402;{'list2': ['pelicon', 'book', 'acordion'], 'list1': ['peguin', 'pelicon', 'catapillar', 'book'], 'list3': ['chettah', 'acordion']}
+405;{'list2': ['sppon', 'himmingbird', 'donket'], 'list1': ['spoder'], 'list3': []}
+408;{'list2': ['fauset'], 'list1': [], 'list3': ['gorila', 'geans', 'fauset', 'hager', 'mouse']}
+411;{'list2': [], 'list1': [], 'list3': []}
+414;{'list2': [], 'list1': ['mirror'], 'list3': ['mirror']}
+417;{'list2': [], 'list1': [], 'list3': []}
+420;{'list2': ['trumphet', 'napkin'], 'list1': ['napkin', 'cup'], 'list3': ['napkin']}
+423;{'list2': [], 'list1': ['screwdriver'], 'list3': ['gorrilla']}
+426;{'list2': ['ACCORDIAN', 'MICORWAVE'], 'list1': ['ACCORIDAN'], 'list3': []}
+429;{'list2': [], 'list1': [], 'list3': ['rate']}
+432;{'list2': [], 'list1': ['agle'], 'list3': ['vrown']}
+435;{'list2': ['lamo'], 'list1': ['volleybal'], 'list3': ['aramadillo']}
+438;{'list2': ['violen', 'crocadile'], 'list1': ['crocadile'], 'list3': ['crocidile', 'violen']}
+441;{'list2': ['tiger', 'dove'], 'list1': ['tiger'], 'list3': ['eer', 'deer^', 'tiger', 'sink']}
+444;{'list2': [], 'list1': [], 'list3': ['led']}
+447;{'list2': [], 'list1': [], 'list3': []}
+450;{'list2': [], 'list1': ['cactus'], 'list3': []}
+453;{'list2': [], 'list1': [], 'list3': []}
+456;{'list2': [], 'list1': ['Dog', 'Fish', 'Monkey'], 'list3': ['Fish', 'Turtle']}
+459;{'list2': ['crocodilla', 'toliet'], 'list1': [], 'list3': ['dee4r', 'ravej', 'toliet']}
+462;{'list2': ['Kangaroon', ''], 'list1': [], 'list3': []}
+465;{'list2': ['Feret', 'Letter'], 'list1': ['Racoon'], 'list3': ['Harpischord', 'Ostrick']}
+468;{'list2': ['accordian'], 'list1': ['goat', 'accordian'], 'list3': ['accordian', 'vollleyball']}
+471;{'list2': ['esk', 'lephant'], 'list1': ['esk'], 'list3': ['deeer', 'pelicon']}
+474;{'list2': ['rog', 'clothepin'], 'list1': ['drogonfly'], 'list3': []}
+477;{'list2': ['motercycle'], 'list1': ['racoon', 'dipolma', 'baraccuda'], 'list3': ['flacon', 'baraccuda ']}
+480;{'list2': [], 'list1': [], 'list3': []}
+483;{'list2': ['ase', 'vase*'], 'list1': ['at', 'cat*'], 'list3': ['oad', 'toad*', 'flamingo*']}
+486;{'list2': ['pengiun'], 'list1': [], 'list3': ['motorcyle', 'catepillar']}
+489;{'list2': ['crocidile', 'helment'], 'list1': ['crocidile', 'helment'], 'list3': ['sppon', 'ork', 'crocidile', 'envelop', 'kangroo', 'stero ', 'helment', 'buttefly']}
+492;{'list2': [], 'list1': [], 'list3': ['eer']}
+495;{'list2': [], 'list1': [], 'list3': ['tumpet', 'allitgator']}
+498;{'list2': ['rmadillo'], 'list1': [], 'list3': []}
+501;{'list2': [], 'list1': [], 'list3': []}
+504;{'list2': ['mop'], 'list1': ['elephant', 'car', 'monkey'], 'list3': ['mouse']}
+507;{'list2': [], 'list1': ['moon'], 'list3': []}
+510;{'list2': [], 'list1': [], 'list3': []}
+513;{'list2': [], 'list1': ['grasshoper'], 'list3': ['helemt']}
+516;{'list2': [], 'list1': ['socks', 'moose'], 'list3': []}
+106;{'list2': ['bayoney'], 'list1': ['mahnet', 'bod'], 'list3': ['marckel']}
+109;{'list2': [], 'list1': ['cat'], 'list3': []}
+112;{'list2': ['cheuffer', 'beyonette', 'windnioll', 'windmill*'], 'list1': ['cheuffer', 'truck'], 'list3': ['cheuffer', 'beyonet']}
+115;{'list2': [], 'list1': ['for'], 'list3': ['mackrele']}
+124;{'list2': [], 'list1': [], 'list3': ['ukelele', 'sppon']}
+127;{'list2': ['oolbox', 'makaral'], 'list1': [], 'list3': ['mackiral', 'frok', 'amel']}
+130;{'list2': [], 'list1': [], 'list3': ['gymnist', 'chauffer', 'fafrmhouse']}
+133;{'list2': [], 'list1': [], 'list3': []}
+139;{'list2': ['alleway'], 'list1': [], 'list3': ['amel', 'jewler', 'camel*']}
+142;{'list2': ['ukelele'], 'list1': [], 'list3': []}
+145;{'list2': ['neice'], 'list1': ['neice'], 'list3': []}
+148;{'list2': ['bayonette', 'bezene', 'chauffer'], 'list1': ['chauffer', 'bayonette'], 'list3': ['casion', 'bayonette', 'chauffer', 'bezene']}
+149;{'list2': ['civlian', 'jewler', 'gold'], 'list1': ['painting', 'jigsaw'], 'list3': ['chauffer', 'civillian']}
+151;{'list2': ['citizen ', 'senetor'], 'list1': ['senetor', 'jewlwey', ''], 'list3': ['oose', 'civilan', 'jewler']}
+154;{'list2': [], 'list1': [], 'list3': ['chicekn', 'farm']}
+157;{'list2': ['chaffuer'], 'list1': [], 'list3': []}
+160;{'list2': [], 'list1': [], 'list3': ['Sppon']}
+163;{'list2': ['sppon', 'tortise'], 'list1': ['tortise'], 'list3': ['tortise']}
+166;{'list2': ['yearboko', 'adamant'], 'list1': ['veel'], 'list3': ['iner', 'bunnny']}
+169;{'list2': ['contractor', 'bloodbound', 'ukilali'], 'list1': ['wood'], 'list3': ['padde', 'inscet', 'ukulili']}
+172;{'list2': [], 'list1': [], 'list3': []}
+175;{'list2': ['tuortise'], 'list1': [], 'list3': ['astrnoaut', 'teacher', 'tourtise']}
+181;{'list2': ['bycicle'], 'list1': ['bycicle', 'ambasador'], 'list3': ['bycicle']}
+184;{'list2': ['women', 'townhome', 'bauynet'], 'list1': ['chauffer'], 'list3': ['women', 'athelete', 'chauffer']}
+187;{'list2': [], 'list1': [], 'list3': ['winmill']}
+190;{'list2': ['ukalae', 'pincel', 'tourtuse', 'parents', 'neice'], 'list1': ['ukulale', 'neice', 'parents', 'penciel', 'draw', 'tourtise'], 'list3': ['furnture', 'parents', 'neice', 'towen', 'ukalele', 'tourtuse', 'murkat']}
+193;{'list2': ['chauffere', 'bronzere'], 'list1': [], 'list3': ['sppon', 'chaufere']}
+196;{'list2': ['adminal', 'makerel'], 'list1': ['adminral', 'bicylce', 'civilan', 'amdassador', 'baoynet', 'makerel'], 'list3': ['adminal', 'civilian\\', 'amdassador', 'makerel']}
+199;{'list2': ['bicyle'], 'list1': ['book', 'kohala'], 'list3': []}
+202;{'list2': [], 'list1': ['ambassator'], 'list3': []}
+205;{'list2': ['civillian'], 'list1': ['civillian'], 'list3': ['civillian']}
+208;{'list2': [], 'list1': ['shaham'], 'list3': []}
+211;{'list2': ['turtoise', 'minor'], 'list1': ['dear', 'minor', 'turtoise'], 'list3': ['puddy']}
+214;{'list2': ['carpentr', 'ukele'], 'list1': ['oyoster', 'gymmanist'], 'list3': ['ukele', 'painter']}
+217;{'list2': [], 'list1': ['Jewler', 'Rabbit'], 'list3': []}
+220;{'list2': ['denzene'], 'list1': [], 'list3': []}
+223;{'list2': ['tortise', 'carpentor', 'gymnest'], 'list1': ['brewry', 'tortuise', 'gymnest'], 'list3': ['brewry', 'carpentar', 'gymnest']}
+226;{'list2': [], 'list1': ['climbing'], 'list3': ['ukelele']}
+229;{'list2': ['ukelele'], 'list1': [], 'list3': ['ukelele']}
+232;{'list2': ['Mackeral'], 'list1': ['poon '], 'list3': []}
+235;{'list2': [], 'list1': ['chauffer'], 'list3': ['sppon ']}
+238;{'list2': ['chauffer'], 'list1': [], 'list3': ['dairy', 'chauffuer']}
+241;{'list2': ['women', 'ukelele'], 'list1': ['women', 'allyway', 'ukelele'], 'list3': ['ukelele', 'women']}
+244;{'list2': ['admial', 'athelete'], 'list1': ['budist'], 'list3': ['athelet']}
+247;{'list2': ['ortoise', ''], 'list1': [], 'list3': ['tortise', 'mackarel', 'astrounot', 'poon', 'ork ', 'armhouse', 'nsect', 'enzene ']}
+250;{'list2': [], 'list1': [], 'list3': ['door', 'townhoose', 'townhouse*', 'senattor']}
+253;{'list2': ['beneze', 'tortiouse', 'dog'], 'list1': [], 'list3': ['bank', 'beneze', 'civllian']}
+256;{'list2': ['benezene', 'sentior', 'kola'], 'list1': [], 'list3': ['furntiure', 'benezene', 'sentor', 'gymnist']}
+259;{'list2': [], 'list1': [], 'list3': ['astonaut']}
+262;{'list2': ['sppon', 'dear'], 'list1': ['serpent'], 'list3': []}
+265;{'list2': ['astrounat', 'chauffer'], 'list1': ['denzene', 'cat'], 'list3': ['astonut', 'fruniture', 'boyant ', 'chauffer']}
+268;{'list2': [], 'list1': [], 'list3': ['twoer']}
+271;{'list2': ['civillian ', 'chauffer'], 'list1': ['chauffer'], 'list3': []}
+274;{'list2': ['astronut', 'gymnist', 'sentor'], 'list1': ['astronut', 'sentor', 'gmnyst '], 'list3': ['sppon', 'townhome', 'piant', 'sentor']}
+277;{'list2': ['ambasador ', 'space ', 'austronaut'], 'list1': [], 'list3': ['austronaut', 'civillian ']}
+280;{'list2': [], 'list1': [], 'list3': []}
+283;{'list2': ['astrountant', 'merckl'], 'list1': ['markel'], 'list3': ['astronaunt', 'ranch\\', 'chaufer']}
+286;{'list2': ['tortise', 'uklele ', 'astronauht', 'women', 'salesmen', 'jewler'], 'list1': ['ukuleele'], 'list3': ['astronout', 'jewler', 'uklele']}
+289;{'list2': ['ceil'], 'list1': ['sheshore'], 'list3': []}
+292;{'list2': [], 'list1': ['atsronaut', 'general'], 'list3': []}
+295;{'list2': ['embassador'], 'list1': ['embasador'], 'list3': ['embassador', 'uukelele', 'civillian']}
+298;{'list2': ['chaffeaur'], 'list1': [], 'list3': ['chaffeaur']}
+301;{'list2': ['miber'], 'list1': ['painter'], 'list3': ['althelte']}
+304;{'list2': ['townhome'], 'list1': ['ghost'], 'list3': ['townhome', 'mackerol']}
+307;{'list2': [], 'list1': ['bear', 'beavwer', 'toaster', 'beer', 'wood'], 'list3': []}
+310;{'list2': ['fierman', 'tortius', 'beer', 'pencile', 'windmil', 'holister'], 'list1': ['camale', 'pencile', 'windmil', 'tortius'], 'list3': ['fierman', 'windmil', 'perant', 'pencile', 'tortious', 'sailboat', 'ukevel', 'camle']}
+313;{'list2': ['townhome', 'ukelele'], 'list1': ['ukelele'], 'list3': ['townhome']}
+316;{'list2': [], 'list1': [], 'list3': ['neice']}
+319;{'list2': [], 'list1': [], 'list3': ['eer', 'indmill', 'tuboat']}
+322;{'list2': ['mackeral'], 'list1': ['seantor'], 'list3': []}
+325;{'list2': ['jewlery'], 'list1': ['ukelele'], 'list3': ['jewelry']}
+328;{'list2': ['spook'], 'list1': ['place', 'moose'], 'list3': ['gymast', 'chauffer']}
+332;{'list2': [], 'list1': ['ukele'], 'list3': ['ukelele', 'haman']}
+334;{'list2': ['ranch deer'], 'list1': ['stapled', 'bod', 'chauffer'], 'list3': []}
+337;{'list2': ['blackbirx', 'senate'], 'list1': ['odd'], 'list3': ['nail', 'dotor']}
+340;{'list2': [], 'list1': ['birdman', 'boat', 'lady'], 'list3': ['fiddler']}
+343;{'list2': [], 'list1': ['tortise'], 'list3': []}
+346;{'list2': ['ukelele', 'chauffer'], 'list1': ['ukelele', 'vhemist', 'chauffer'], 'list3': ['blackbirf', 'ukelele', 'chauffer']}
+349;{'list2': ['ukele', 'bike'], 'list1': ['bike', 'ukele', 'athelete'], 'list3': ['allwyway', 'biker', 'uklele']}
+352;{'list2': ['spoon\\', 'jewler', 'bayonte'], 'list1': ['jewler', 'dog', 'women', 'beyonte'], 'list3': ['bayonte', 'astrunaut']}
+355;{'list2': [], 'list1': ['benezen'], 'list3': ['forl']}
+358;{'list2': ['ukelele'], 'list1': ['townhome', 'ukele'], 'list3': ['seashell', 'chaufar', 'ukelele', 'tortise']}
+361;{'list2': ['jewler', 'seahorse'], 'list1': ['seahorse', 'jewler'], 'list3': [' seahorse', 'jewler', 'superherp', '*superhero']}
+364;{'list2': [], 'list1': [], 'list3': ['ukelee']}
+367;{'list2': ['frieman'], 'list1': ['dear'], 'list3': []}
+370;{'list2': ['benzone', 'astronout'], 'list1': ['neice'], 'list3': []}
+373;{'list2': [], 'list1': ['Ukelele', 'soccer?'], 'list3': ['poon']}
+376;{'list2': [], 'list1': ['chaffeur'], 'list3': []}
+379;{'list2': ['puuty', 'women'], 'list1': ['women', 'saleman'], 'list3': ['women']}
+382;{'list2': ['salesmen'], 'list1': ['neice', 'oyester', 'salesmen'], 'list3': ['chaufeur', 'neice']}
+385;{'list2': ['pachage', 'bycicle'], 'list1': ['bycicle'], 'list3': ['bycicle']}
+388;{'list2': [], 'list1': [], 'list3': []}
+391;{'list2': [], 'list1': [], 'list3': ['eashore']}
+394;{'list2': ['', '', 'ukelele'], 'list1': [], 'list3': ['palaca', 'ukelele']}
+397;{'list2': ['oysters'], 'list1': ['ukuele', 'bezene'], 'list3': ['oysters']}
+400;{'list2': [], 'list1': [], 'list3': ['holstor', 'bevenve']}
+403;{'list2': [], 'list1': [], 'list3': ['casinp']}
+406;{'list2': ['tortise'], 'list1': ['tortise'], 'list3': ['tortise']}
+409;{'list2': [], 'list1': [], 'list3': []}
+412;{'list2': ['brewerly ', 'ambassdor ', 'civilan ', 'adimarl '], 'list1': ['amassabor', 'oranment '], 'list3': ['ambassdors ']}
+415;{'list2': ['DENZENE'], 'list1': ['DENZENE'], 'list3': ['DERR']}
+418;{'list2': ['mackeral'], 'list1': ['yearbock'], 'list3': []}
+421;{'list2': [], 'list1': ['LIGHTHOUSE', 'MIRROR', 'MACKREL'], 'list3': ['PANITER', 'MACKERL']}
+424;{'list2': ['astronaught'], 'list1': [], 'list3': ['astronaught']}
+427;{'list2': ['artist'], 'list1': ['artist'], 'list3': ['ukelele', 'byclcyle', 'dee', 'merkacl']}
+430;{'list2': ['seahorse'], 'list1': ['seahorse'], 'list3': ['astraunot', 'jewler', 'seashosre']}
+439;{'list2': ['gymnst'], 'list1': ['women', 'pencile', 'berwery'], 'list3': ['gymnst']}
+442;{'list2': ['senate', 'seachore', 'vil', 'astronout', 'govenor'], 'list1': ['car', 'rose', 'astrunout', 'space', 'dirt', 'dog', 'rugged', 'outside', 'wedding', 'house', 'terain', 'governer', 'senate', 'quail', 'chicken'], 'list3': ['astrounot', 'spaceship[', 'senate', 'mother']}
+445;{'list2': ['neice', 'castle'], 'list1': ['chauffer'], 'list3': ['castle']}
+448;{'list2': ['pecil'], 'list1': ['husband'], 'list3': []}
+451;{'list2': ['dear', 'birl', 'bycicle', 'women', 'carpender', 'jewler', 'nudiest'], 'list1': ['crapender', 'jewler', 'bickle', 'women', 'admrial'], 'list3': ['makeral', 'admeril', 'jewler', 'carpender', 'women']}
+454;{'list2': ['daughter', 'coop'], 'list1': [], 'list3': ['daughter', 'coal']}
+457;{'list2': ['astronaunt', 'sooin'], 'list1': [], 'list3': ['ukelele', 'astronaunt']}
+460;{'list2': [], 'list1': ['astonaut', 'seashorse'], 'list3': []}
+463;{'list2': ['makerel', 'bayonete', 'admeral'], 'list1': ['neice', 'shovel', 'moose', 'bayonete'], 'list3': ['chaufer', 'neice', 'form', 'bayonete', 'admaral', 'makeral']}
+466;{'list2': ['spider'], 'list1': ['spoom', 'spoon*', 'spider', ''], 'list3': []}
+469;{'list2': ['sneator'], 'list1': [], 'list3': []}
+472;{'list2': [], 'list1': ['ukullee'], 'list3': ['ukuele']}
+475;{'list2': ['chauffer'], 'list1': [], 'list3': ['chaueffer']}
+478;{'list2': ['viel'], 'list1': [], 'list3': ['astrounot', 'bloodhounf']}
+481;{'list2': ['champion'], 'list1': ['makerel'], 'list3': ['champion']}
+484;{'list2': ['viel'], 'list1': ['door', 'makrel', 'spaceschip', 'trail'], 'list3': []}
+487;{'list2': [], 'list1': ['children ', ''], 'list3': []}
+490;{'list2': [], 'list1': [], 'list3': []}
+493;{'list2': ['chaufeer'], 'list1': ['mackeral', 'fish'], 'list3': ['dee', 'chaufure']}
+496;{'list2': ['bycicle', 'moose'], 'list1': ['diery', 'bezene', 'physisican', 'governor', 'engineer'], 'list3': ['ornaments', 'bycicle', 'moose']}
+499;{'list2': ['ukelele'], 'list1': [], 'list3': ['townhome', 'abassador', 'ukelele']}
+502;{'list2': ['jewler', 'goosr', 'admirl'], 'list1': ['jewley', 'cauffer'], 'list3': ['jewler', 'deet']}
+505;{'list2': ['climer', 'chauffer'], 'list1': ['clime', 'climer'], 'list3': ['snator', 'chauffer', 'climer']}
+508;{'list2': [], 'list1': ['firefighter', 'building'], 'list3': ['salseman']}
+511;{'list2': ['chauffer', 'pon', 'poge', 'sponge'], 'list1': ['chaufer', 'ukilele'], 'list3': ['warlord', 'sponge', 'chauffer']}
+514;{'list2': [], 'list1': [], 'list3': []}

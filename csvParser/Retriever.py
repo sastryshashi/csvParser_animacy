@@ -19,7 +19,7 @@ print ("\tThis program displays items that could not be scored".upper())
 print ("*"*75)
 remainder_dict = dict()
 
-with open ('dict.csv') as csv_file:
+with open ('unscored.csv') as csv_file:
     csv_reader = csv.reader (csv_file, delimiter=';')
     for row in csv_reader:
         remainder_dict [int(row[0])] = literal_eval(row[1])
