@@ -44,12 +44,11 @@ materials = {1: ['104', '113', '119', '122', '128', '131', '134', '140', '143', 
              2: ['102', '108', '110', '111', '114', '117', '123', '126', '129', '138', '141', '144', '147', '150', '153', '159', '162', '165', '168', '171', '174', '177', '180', '186', '189', '192', '195', '198', '201', '204', '207', '210', '213', '216', '219', '222', '225', '228', '231', '234', '237', '240', '243', '246', '249', '252', '255', '258', '261', '264', '267', '270', '273', '276', '279', '282', '285', '288', '291', '294', '297', '300', '303', '306', '309', '312', '315', '318', '321', '324', '327', '330', '336', '339', '342', '345', '348', '351', '354', '357', '360', '363', '366', '369', '372', '375', '378', '381', '384', '387', '390', '393', '396', '399', '402', '405', '408', '411', '414', '417', '420', '423', '426', '429', '432', '435', '438', '441', '444', '447', '450', '453', '456', '459', '462', '465', '468', '471', '474', '477', '480', '483', '486', '489', '492', '495', '498', '501', '504', '507', '510', '513', '516'],
              3: ['106', '109', '112', '115', '124', '127', '130', '133', '139', '142', '145', '148', '149', '151', '154', '157', '160', '163', '166', '169', '172', '175', '181', '184', '187', '190', '193', '196', '199', '202', '205', '208', '211', '214', '217', '220', '223', '226', '229', '232', '235', '238', '241', '244', '247', '250', '253', '256', '259', '262', '265', '268', '271', '274', '277', '280', '283', '286', '289', '292', '295', '298', '301', '304', '307', '310', '313', '316', '319', '322', '325', '328', '332', '334', '337', '340', '343', '346', '349', '352', '355', '358', '361', '364', '367', '370', '373', '376', '379', '382', '385', '388', '391', '394', '397', '400', '403', '406', '409', '412', '415', '418', '421', '424', '427', '430', '439', '442', '445', '448', '451', '454', '457', '460', '463', '466', '469', '472', '475', '478', '481', '484', '487', '490', '493', '496', '499', '502', '505', '508', '511', '514']}
 
-for key, value in materials.items():
-    material_number = key
+for material_number, participant_list in materials.items():
     print ("Now searching materials with material number: " + str(material_number)) 
         
-    for id_number in value:
-        word_list = Get_Word_List (id_number)
+    for participant in participant_list:
+        word_list = Get_Word_List (participant)
         scores_dict = dict()
         unscored_dict = {'list1': [], 'list2': [], 'list3': []}
 
@@ -57,7 +56,7 @@ for key, value in materials.items():
             scores_dict [word] = [0, 0, 0] #Start by assuming that a given word was not recalled by the participant in lists 1, 2 or 3.
                                            #If the participant did recall the word, we will later change it to 1.
         try:
-            with open('dataFiles/' + file_prefix + id_number + '.txt') as csv_file:
+            with open('dataFiles/' + file_prefix + participant + '.txt') as csv_file:
                 csv_reader = csv.reader(csv_file, delimiter = ',')
                 for row in csv_reader:
                     item_name = row[1].lower().strip(' ')
@@ -72,19 +71,19 @@ for key, value in materials.items():
                     elif (item_name != 'finished' and item_name != 'fork' and item_name != 'spoon' and item_name != 'deer' and item_name != 'goose'):
                         unscored_dict [list_num].append(row[1]) #row[1] is used instead of item_name to preserve case
         except:
-            print ('Could not find file with id: ' + id_number)
-            unfound_ids.add(id_number)
+            print ('Could not find file with id: ' + participant)
+            unfound_ids.add(participant)
             continue
         #Add results of the given participant in scored_data.csv
         with open ('scored_data.csv', 'a', newline='') as csv_file:
             csv_writer = csv.writer (csv_file)
             for word in word_list:
-                fields = [str(id_number), material_number, word, scores_dict[word][0], scores_dict[word][1], scores_dict[word][2]]
+                fields = [str(participant), material_number, word, scores_dict[word][0], scores_dict[word][1], scores_dict[word][2]]
                 csv_writer.writerow(fields)
-        #Add results of the given participant ni unscored.csv
+        #Add results of the given participant in unscored.csv
         with open ('unscored.csv', 'a', newline='') as csv_file:
             csv_writer = csv.writer(csv_file, delimiter=';')
-            fields = [id_number, str(unscored_dict)]
+            fields = [participant, str(unscored_dict)]
             csv_writer.writerow(fields)
 
 print ('\n' + '*'*75 + '\n\tFINISHED SEARCH\n' + '*'*75)
